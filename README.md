@@ -7,7 +7,7 @@ and try to catch any errors that might arise, with the proper assumptions.
 ## Files included in the repo: 
 - challenge.ipynb 
 - challenge.py (code only) 
-### Note: the original wikipedia json file, the kaggle csv file, and rating csv file is not uploaded to the repo as it is not required in the challenge rubric. 
+### Note: the original wikipedia json file, the kaggle csv file, and ratings csv file are not uploaded to the repo as it is not required in the challenge rubric. 
 
 ## Function
 The def function takes in three arguments: wiki, kaggle, and rating.  The values are the respective file names when calling the function.  
