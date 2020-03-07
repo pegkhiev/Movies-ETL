@@ -31,4 +31,4 @@ After merging Wikipedia and Kaggle dataframes, the step of choosing which column
 1) TRUNCATE TABLE command was used to remove all data in the SQL tables but keeping the original tables 
 2) In loading both the movies_df dataframe and ratings dataframe, "if_exists = "append"" is added to add data into the empty tables 
 
-<img alt = "SQL screenshot" src = "https://github.com/pegkhiev/Movies-ETL/blob/master/images/Screen%20Shot%202020-03-06%20at%206.41.15%20PM.png">
+<img alt = "SQL screenshot" src = "https://github.com/pegkhiev/Movies-ETL/blob/master/images/Screen%20Shot%202020-03-07%20at%2010.50.04%20AM.png">
